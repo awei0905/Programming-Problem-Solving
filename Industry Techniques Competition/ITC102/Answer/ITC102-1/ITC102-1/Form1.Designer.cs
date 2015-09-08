@@ -49,41 +49,41 @@
             // 
             this.groupBox1.Location = new System.Drawing.Point(12, 37);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(300, 250);
+            this.groupBox1.Size = new System.Drawing.Size(267, 224);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "1.輸入資料";
             // 
             // groupBox2
             // 
-            this.groupBox2.Location = new System.Drawing.Point(318, 37);
+            this.groupBox2.Location = new System.Drawing.Point(285, 37);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(150, 100);
+            this.groupBox2.Size = new System.Drawing.Size(161, 130);
             this.groupBox2.TabIndex = 2;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "2.權重遮罩設定";
             // 
             // groupBox3
             // 
-            this.groupBox3.Location = new System.Drawing.Point(474, 37);
+            this.groupBox3.Location = new System.Drawing.Point(452, 37);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(150, 100);
+            this.groupBox3.Size = new System.Drawing.Size(124, 69);
             this.groupBox3.TabIndex = 3;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "3.輸入要運算的3x3區域之左上角座標";
             // 
             // groupBox4
             // 
-            this.groupBox4.Location = new System.Drawing.Point(711, 37);
+            this.groupBox4.Location = new System.Drawing.Point(663, 37);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(150, 100);
+            this.groupBox4.Size = new System.Drawing.Size(76, 69);
             this.groupBox4.TabIndex = 4;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "5.編碼結果";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(630, 37);
+            this.button1.Location = new System.Drawing.Point(582, 37);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 5;
@@ -94,7 +94,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(876, 297);
+            this.ClientSize = new System.Drawing.Size(763, 275);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox3);
